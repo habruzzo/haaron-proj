@@ -20,4 +20,23 @@ questions
 container to hold pellets
 tube to dispense
 xbee to receive signal
-microcontroller to shift 
+microcontroller to shift
+
+5)tools:
+container to hold water
+tube to dispense
+xbee to receive signal
+microcontroller to execute
+
+8)tools:
+microcontroller
+xbee to send and receive signals to/from slaves
+ethernet connection to publish dashboard/receive inputs
+
+################
+Day 1 TODO:
+
+i.diagrams/blueprints for 3, 4, 5, 6, 7, 8
+ii.overall tool list
+iii.design docs for 2
+
