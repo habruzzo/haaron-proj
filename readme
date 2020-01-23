@@ -1,0 +1,23 @@
+haaron contraption:
+
+purpose: be able to watch/monitor haaron when im not at the apartment. be able to feed him and refill his water, as well as keep general tabs on his wherebouts
+
+questions
+1) wireless? do i want radio or wired connections?
+2) interface that i can connect to over internet
+	-security on this interface (login/authentication of some kind)
+	-ssl? how secure do i need this to be?
+	-control pellet dispenser, hay dispenser, water dispenser, view live camera footage, view device logs
+3) pellet dispenser (wireless) (time based) (xbee) (servos/steppers)
+4) hay dispenser (wireless) (xbee)
+5) water dispenser (wireless) (weight based) (xbee) (servos/steppers)
+6) motion sensors (wired)
+7) cameras (wired for better data transport)
+8) control center (xbee)
+	-publishes data/logs
+
+3)tools: 
+container to hold pellets
+tube to dispense
+xbee to receive signal
+microcontroller to shift 
